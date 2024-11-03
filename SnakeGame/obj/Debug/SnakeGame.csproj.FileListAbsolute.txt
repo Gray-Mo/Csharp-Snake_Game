@@ -1,0 +1,7 @@
+F:\Work\rpa\cSharp\smallOnlineOOP\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+F:\Work\rpa\cSharp\smallOnlineOOP\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+F:\Work\rpa\cSharp\smallOnlineOOP\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+F:\Work\rpa\cSharp\smallOnlineOOP\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+F:\Work\rpa\cSharp\smallOnlineOOP\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+F:\Work\rpa\cSharp\smallOnlineOOP\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+F:\Work\rpa\cSharp\smallOnlineOOP\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
